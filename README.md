@@ -5,7 +5,7 @@ Last updated: August 30, 2026
 
 Overview
 
-StockPet ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how StockPet handles information when you use our mobile application.
+StockPet is committed to protecting your privacy. This Privacy Policy explains how StockPet handles information when you use our mobile application.
 
 Information We Do Not Collect
 
